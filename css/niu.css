@@ -1,0 +1,133 @@
+td {
+	font-size: 12px;
+	FONT-FAMILY:"宋体","SimSun";
+	
+}
+.indfont {
+	font-size: 14px;
+	FONT-FAMILY:"宋体","SimSun";
+	line-height: 120%;
+}
+.indfontsmall {
+	font-size: 14px;
+	FONT-FAMILY:"宋体","SimSun";
+	line-height: 120%;
+}
+li {
+	font-size: 14px;
+	line-height: 20px;
+	FONT-FAMILY:"宋体","SimSun";
+
+}
+a:link {
+	text-decoration: none;
+	color: #0000ff;
+}
+a:visited {
+	text-decoration: none;
+	color: #800080;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: underline;
+}
+.linsty1:link {
+	text-decoration: none;
+}
+.linsty1:visited {
+	text-decoration: none;
+}
+.linsty1:hover {
+	text-decoration: underline;
+}
+.linsty1:active {
+	text-decoration: underline;
+}
+.border1 {
+	border: 1px solid #000000;
+}
+
+INPUT.buttonface{BACKGROUND: #999999; border:1px solid black; COLOR: #ffffff; FONT-SIZE: 12px; FONT-STYLE: normal; FONT-VARIANT: normal; FONT-WEIGHT: normal; HEIGHT: 20px; LINE-HEIGHT: normal}
+
+INPUT{ FONT-SIZE: 12px}
+
+select{ FONT-SIZE: 12px}
+
+td.menu{FONT-SIZE: 14px;color:#000000;FONT-WEIGHT: bold;TEXT-DECORATION: none}
+
+.line150 {
+	line-height: 150%;
+}
+.linkTopNav:visited {color: #000000;text-decoration: none;}
+.linkTopNav:hover{color:#000000;text-decoration: underline;}
+.linkTopNav:link {color: #000000;text-decoration: none;}
+
+
+
+
+
+
+body{MARGIN: 0px; PADDING: 0px; BACKGROUND: #999999;}
+#header1{MARGIN: 0px; BORDER: 0px; BACKGROUND: #FFFFFF; WIDTH: 850px; HEIGHT: 169px;}
+#header2{MARGIN: 0px; BORDER: 0px; BACKGROUND: #FFFFFF; WIDTH: 850px; HEIGHT: 50px;}
+#header3{MARGIN: 0px; BORDER: 0px; BACKGROUND: #FFFFFF; WIDTH: 850px; HEIGHT: 26px;}
+#mainbox{MARGIN: 0px; PADDING:0px; WIDTH: 850px; BACKGROUND: #FFFFFF;}
+#mainbg {BACKGROUND: #ffffff; float:left;}
+
+#column1{FLOAT: left; MARGIN: 0px 0px 0px 0px; PADDING:0px; BACKGROUND: #FFFFFF; WIDTH: 660px; BACKGROUND: url(http://cnpic.crntt.com/resource/images/pub_061120_02.gif) #FEFEFE repeat right top;}
+#column2{FLOAT: left; MARGIN: 0px 0px 0px 0px; PADDING:0px; WIDTH: 190px; BACKGROUND: #FFFFFF;}
+#tail{CLEAR: both; MARGIN: 0px; PADDING: 0px 0px 0px 0px; BACKGROUND: #FFFFFF; WIDTH: 850px;}
+
+INPUT.buttonface{BACKGROUND: #ff9900; border:1px solid black; COLOR: #ffffff; FONT-SIZE: 12px; FONT-STYLE: normal; FONT-VARIANT: normal; FONT-WEIGHT: normal; HEIGHT: 18px; LINE-HEIGHT: normal}
+
+ol {
+	margin : 0px;
+	padding : 0px;
+	margin-left: 20px;
+}
+
+ol li {
+	font-size: 12px;
+	line-height: 130%;
+	FONT-FAMILY:"宋体","SimSun";
+	margin : 0px;
+	padding : 0px;
+	margin-bottom: 5px;
+}
+
+.ppImg {
+	border:0px;
+	max-height:106px;
+}
+
+
+.flexslider img{
+	border:0px;
+    width:230px;
+    height:162px;
+}
+
+.flexslider .flex-caption {
+	height:15px;
+	padding-bottom:0px;
+	padding-top:0px;
+    margin:0px;
+}
+
+.flexslider .flex-caption .fclinea {
+	font-size:12px;
+	font-weight:bold;
+	display:block;
+	padding-bottom:0px;
+    text-align:center;
+}
+
+.flex-control-nav {
+    bottom:-10px;
+}
+
+.flex-control-paging li a {width: 5px; height: 5px; display: block; background: #B6B6B6; background: rgba(0,0,0,0.2); 
+cursor: pointer; text-indent: -9999px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -o-border-radius: 10px; 
+border-radius: 10px; box-shadow: inset 0 0 3px rgba(0,0,0,0.2);}
